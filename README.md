@@ -23,7 +23,11 @@ It has the following features -
 -Use of jQuery to handle all js related operations along with vanilla js
 
 **Few Snapshots of the website**
-<img width="1186" alt="Screenshot 2023-01-10 at 2 07 04 AM" src="https://user-images.githubusercontent.com/39809810/211403423-7864a9f9-a158-4a73-be94-14d4d84908bc.png">
-<img width="1186" alt="Screenshot 2023-01-10 at 2 06 55 AM" src="https://user-images.githubusercontent.com/39809810/211403478-ac89e264-b4f0-42b3-a1f6-2686e5552f5c.png">
-<img width="1186" alt="Screenshot 2023-01-10 at 2 06 39 AM" src="https://user-images.githubusercontent.com/39809810/211403488-d6fd14a1-7414-4516-88a5-71424f9f3fd7.png">
+
 <img width="1186" alt="Screenshot 2023-01-10 at 2 06 26 AM" src="https://user-images.githubusercontent.com/39809810/211403490-f4f481c2-66c6-46f0-8451-7a315b7c33b8.png">
+
+<img width="1186" alt="Screenshot 2023-01-10 at 2 06 39 AM" src="https://user-images.githubusercontent.com/39809810/211403488-d6fd14a1-7414-4516-88a5-71424f9f3fd7.png">
+
+<img width="1186" alt="Screenshot 2023-01-10 at 2 06 55 AM" src="https://user-images.githubusercontent.com/39809810/211403478-ac89e264-b4f0-42b3-a1f6-2686e5552f5c.png">
+
+<img width="1186" alt="Screenshot 2023-01-10 at 2 07 04 AM" src="https://user-images.githubusercontent.com/39809810/211403423-7864a9f9-a158-4a73-be94-14d4d84908bc.png">
